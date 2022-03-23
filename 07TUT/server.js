@@ -32,7 +32,7 @@ app.use(express.urlencoded({ extended: false }));
 // built-in middleware for json
 app.use(express.json());
 
-// built in middle ware for static file 
+// built in Middleware for static file 
 app.use(express.static(path.join(__dirname, '/public')));
 
 app.get('^/$|/index(.html)?', (req, res) => {
