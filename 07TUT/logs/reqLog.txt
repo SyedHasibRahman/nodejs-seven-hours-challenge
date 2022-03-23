@@ -35,3 +35,10 @@
 2022-03-23	13:08:36	49429939-278c-4309-956c-bb3c40373093	GET	undefined	/css/style.css
 2022-03-23	13:09:50	eb67e8b7-3e06-4c14-bd9b-deb24a351a8f	GET	undefined	/dev
 2022-03-23	13:11:11	dfb35949-be24-46b1-af0a-41d3014359ce	GET	undefined	/
+2022-03-23	22:33:07	2366d8ed-8f11-4b3d-8024-659621e478f4	GET	undefined	/css/style.css
+2022-03-23	22:41:55	6a0e7051-fc7d-4bd9-b75d-89d029d947fa	GET	undefined	/dev
+2022-03-23	22:41:55	1de09877-fb59-4ba5-bd46-17fbf7402326	GET	undefined	/css/style.css
+2022-03-23	22:53:15	06e6d4bf-73d7-48e9-9ae5-d305e67cacf7	GET	undefined	/dev
+2022-03-23	22:53:15	b914c0a8-291e-4041-8284-e1318590f90d	GET	undefined	/css/style.css
+2022-03-23	22:53:18	7f184a00-585a-4e1e-96e2-b8678e4dbd98	GET	undefined	/
+2022-03-23	22:53:18	1ba863c9-c331-426a-ba8e-eabbe0d93cc1	GET	undefined	/css/style.css
