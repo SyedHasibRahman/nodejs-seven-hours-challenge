@@ -1,0 +1,5 @@
+2022-03-21	21:41:11	00c57407-6822-44d6-a2e2-0fada7a3bf6e	TypeError: tfsPromises.readFil is not a function
+2022-03-23	13:00:16	1fa41185-e365-4283-b810-7eaf1e71241c	Error: Not allowed by CORS
+2022-03-23	13:00:42	6b4b9f89-efee-44b5-92e7-95cb2806ebba	Error: Not allowed by CORS
+2022-03-24	18:42:56	3e8d4004-2a9c-4d7c-a3b2-b11a7693c347	ReferenceError: daa is not defined
+2022-03-24	18:43:23	1aaf8eb1-608c-45bb-a6a8-4bab4d09f132	ReferenceError: daa is not defined
